@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.switch{
+    background-color: #ddd;
+    transition: background-color .3s;
+}
+.switch .ball{
+    background-color: #fff;
+    transition: transform .3s;
+}
+.switch.dark{
+    background-color: #333;
+}
+.ball.dark{
+    background-color: #333;
+}
+.switch.dark .ball{
+    transform: translateX(-24px);
+}
+.switch.light .ball{
+    transform: translateX(0px);
+}
