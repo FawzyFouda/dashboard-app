@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dashboard-app/static/css/main.2a3df9cc.css",
+    "main.js": "/dashboard-app/static/js/main.dcaa66df.js",
+    "static/media/avatar.webp": "/dashboard-app/static/media/avatar.64c93a2a7fd4832bb79c.webp",
+    "index.html": "/dashboard-app/index.html",
+    "main.2a3df9cc.css.map": "/dashboard-app/static/css/main.2a3df9cc.css.map",
+    "main.dcaa66df.js.map": "/dashboard-app/static/js/main.dcaa66df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3df9cc.css",
+    "static/js/main.dcaa66df.js"
+  ]
+}
